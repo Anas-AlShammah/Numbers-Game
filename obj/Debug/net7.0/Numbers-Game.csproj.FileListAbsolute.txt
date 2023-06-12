@@ -1,0 +1,15 @@
+F:\Repos\Numbers-Game\bin\Debug\net7.0\Numbers-Game.exe
+F:\Repos\Numbers-Game\bin\Debug\net7.0\Numbers-Game.deps.json
+F:\Repos\Numbers-Game\bin\Debug\net7.0\Numbers-Game.runtimeconfig.json
+F:\Repos\Numbers-Game\bin\Debug\net7.0\Numbers-Game.dll
+F:\Repos\Numbers-Game\bin\Debug\net7.0\Numbers-Game.pdb
+F:\Repos\Numbers-Game\obj\Debug\net7.0\Numbers-Game.csproj.AssemblyReference.cache
+F:\Repos\Numbers-Game\obj\Debug\net7.0\Numbers-Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\Numbers-Game\obj\Debug\net7.0\Numbers-Game.AssemblyInfoInputs.cache
+F:\Repos\Numbers-Game\obj\Debug\net7.0\Numbers-Game.AssemblyInfo.cs
+F:\Repos\Numbers-Game\obj\Debug\net7.0\Numbers-Game.csproj.CoreCompileInputs.cache
+F:\Repos\Numbers-Game\obj\Debug\net7.0\Numbers-Game.dll
+F:\Repos\Numbers-Game\obj\Debug\net7.0\refint\Numbers-Game.dll
+F:\Repos\Numbers-Game\obj\Debug\net7.0\Numbers-Game.pdb
+F:\Repos\Numbers-Game\obj\Debug\net7.0\Numbers-Game.genruntimeconfig.cache
+F:\Repos\Numbers-Game\obj\Debug\net7.0\ref\Numbers-Game.dll
